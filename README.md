@@ -1,0 +1,2 @@
+# EasyBot-Free
+EasyBot Free
